@@ -1,3 +1,7 @@
 # happy-new-year
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-sfepcv)
+### Welcoming new year !!
+
+[Live ⚡️](https://react-sfepcv.stackblitz.io)
+
+Feel free to add more coding languages
