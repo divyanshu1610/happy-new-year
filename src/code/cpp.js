@@ -10,7 +10,7 @@ export default function CPP() {
       <Line />
       <Line text="int main" />
       <Line text="{" />
-      <Line prefix="cout << " space="2" suffix={<Hello />} />
+      <Line prefix="cout << " space="2" text={<Hello />} suffix=";" />
       <Line text="return 0;" space="2" />
       <Line text="}" />
     </>
